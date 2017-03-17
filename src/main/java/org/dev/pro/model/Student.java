@@ -1,4 +1,7 @@
 package org.dev.pro.model;
+/**
+*The Student Class
+**/
 public class Student{
 private int id;
 private String name;
