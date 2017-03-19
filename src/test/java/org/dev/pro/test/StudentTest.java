@@ -10,4 +10,10 @@ public void testStudentId(){
 Student student=new Student(1,"Noah Matovu",4,1);
 Assert.assertEquals(1,student.getId());
 }
+
+@Test
+public void testName(){
+Student student=new Student(2,"Leah Nayiga",1,1);
+Assert.assertEquals(2,student.getId());
+}
 }
