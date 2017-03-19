@@ -7,6 +7,6 @@ private int id;
 private String name;
 private int studentId;
 private int studentClass;
-//This is a comment
+private int status;
 
 }
