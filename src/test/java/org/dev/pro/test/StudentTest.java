@@ -8,6 +8,6 @@ public class StudentTest{
 @Test
 public void testStudentId(){
 Student student=new Student(1,"Noah Matovu",4,1);
-Assert.assertEquals(1,student.id);
+Assert.assertEquals(1,student.getId());
 }
 }
