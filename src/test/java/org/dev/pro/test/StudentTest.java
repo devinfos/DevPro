@@ -2,6 +2,7 @@ package org.dev.pro.test;
 import junit.framework.Assert;
 import org.junit.Test;
 import org.junit.Before;
+import org.dev.pro.model.Student;
 public class StudentTest{
 
 @Test
