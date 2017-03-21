@@ -13,7 +13,7 @@ Assert.assertEquals(1,student.getId());
 
 @Test
 public void testName(){
-Student student=new Student(5,"Leah Nayiga",1,1);
+Student student=new Student(2,"Leah Nayiga",1,1);
 Assert.assertEquals(2,student.getId());
 }
 }
